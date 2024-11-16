@@ -29,7 +29,8 @@ cd pull-request-training
 
 Create and Switch to a New Branch:
 
-Run:
+Run
+
 ```bash
 git checkout -b my-feature-branch
 ```
@@ -43,7 +44,7 @@ Make Some Changes:
 
 Stage and Commit the Changes:
 
-- Run:
+Run
 
 ```bash
 git add .
@@ -51,7 +52,8 @@ git commit -m "Added my changes"
 ```
 - Push the Changes:
 
-Run:
+Run
+
 ```bash
 git push origin my-feature-branch
 ```
