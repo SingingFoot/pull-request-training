@@ -20,7 +20,8 @@ Navigate to the Repository Folder:
 bash
 Copy code
 cd pull-request-training
-Step 2: Create a New Branch
+
+# Step 2: Create a New Branch
 Create and Switch to a New Branch:
 
 Run:
@@ -45,7 +46,9 @@ Run:
 bash
 Copy code
 git push origin my-feature-branch
-Step 3: Create a Pull Request
+
+# Step 3: Create a Pull Request
+
 Go to GitHub:
 
 Open your repository on GitHub.
