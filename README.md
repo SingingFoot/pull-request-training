@@ -14,23 +14,23 @@ Open a terminal and run:
 ```bash
 git clone https://github.com/your-username/pull-request-training.git
 ```
-main
 
 Replace your-username with your GitHub username.
 Navigate to the Repository Folder:
 
 ```bash
-Copy code
 cd pull-request-training
 ```
 
 # Step 2: Create a New Branch
+
 Create and Switch to a New Branch:
 
 Run:
-bash
-Copy code
+```bash
 git checkout -b my-feature-branch
+```
+
 Replace my-feature-branch with the name of your branch.
 Make Some Changes:
 
