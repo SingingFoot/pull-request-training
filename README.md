@@ -8,14 +8,17 @@ Create a New Repository:
 - Click on New to create a repository.
 - Give it a name (e.g., pull-request-training) and choose visibility (public or private).
 - Initialize it with a README file for simplicity.
-- Clone the Repository Locally:
+
+Clone the Repository Locally:
 
 - Open a terminal and run:
+
 ```bash
 git clone https://github.com/your-username/pull-request-training.git
 ```
 
-- Replace your-username with your GitHub username.
+*Replace your-username with your GitHub username.*
+
 - Navigate to the Repository Folder:
 
 ```bash
@@ -24,18 +27,20 @@ cd pull-request-training
 
 # Step 2: Create a New Branch
 
-- Create and Switch to a New Branch:
+Create and Switch to a New Branch:
 
 Run:
 ```bash
 git checkout -b my-feature-branch
 ```
 
-- Replace my-feature-branch with the name of your branch.
-- Make Some Changes:
+*Replace my-feature-branch with the name of your branch.*
 
-Edit the README.md or add new files.
-Save your changes.
+Make Some Changes:
+
+- Edit the README.md or add new files.
+- Save your changes.
+
 Stage and Commit the Changes:
 
 Run:
