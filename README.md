@@ -20,7 +20,8 @@ Navigate to the Repository Folder:
 bash
 Copy code
 cd pull-request-training
-Step 2: Create a New Branch
+
+# Step 2: Create a New Branch
 Create and Switch to a New Branch:
 
 Run:
@@ -45,7 +46,9 @@ Run:
 bash
 Copy code
 git push origin my-feature-branch
-Step 3: Create a Pull Request
+
+# Step 3: Create a Pull Request
+
 Go to GitHub:
 
 Open your repository on GitHub.
@@ -55,7 +58,9 @@ Create the Pull Request:
 Click on the "Compare & Pull Request" button.
 Add a title and description for your changes.
 Click Create Pull Request.
-Step 4: Review and Edit the Pull Request
+
+# Step 4: Review and Edit the Pull Request
+
 Switch to the main Branch Locally:
 
 Run:
@@ -77,7 +82,9 @@ Add inline comments to suggest improvements or ask questions.
 Request Changes:
 
 Back in the PR view, click on "Request changes" and describe what needs to be updated.
-Step 5: Update the Pull Request
+
+# Step 5: Update the Pull Request
+
 Switch Back to the Feature Branch Locally:
 
 Run:
@@ -101,7 +108,9 @@ git push origin my-feature-branch
 Resolve Comments on GitHub:
 
 Mark comments as resolved, if appropriate.
-Step 6: Approve and Merge the Pull Request
+
+# Step 6: Approve and Merge the Pull Request
+
 Review the Updated PR:
 
 Go to the PR on GitHub.
