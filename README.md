@@ -11,9 +11,11 @@ Initialize it with a README file for simplicity.
 Clone the Repository Locally:
 
 Open a terminal and run:
-bash
+```bash
 Copy code
 git clone https://github.com/your-username/pull-request-training.git
+```
+main
 
 Replace your-username with your GitHub username.
 Navigate to the Repository Folder:
