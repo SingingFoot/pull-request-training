@@ -12,7 +12,6 @@ Clone the Repository Locally:
 
 Open a terminal and run:
 ```bash
-Copy code
 git clone https://github.com/your-username/pull-request-training.git
 ```
 main
