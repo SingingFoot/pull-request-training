@@ -1,6 +1,6 @@
-# pull-request-training
+# Pull request training
 
-# Step 1: Set Up a Repository
+## Step 1: Set Up a Repository
 
 Create a New Repository:
 
@@ -25,7 +25,7 @@ git clone https://github.com/your-username/pull-request-training.git
 cd pull-request-training
 ```
 
-# Step 2: Create a New Branch
+## Step 2: Create a New Branch
 
 Create and Switch to a New Branch:
 
