@@ -149,3 +149,9 @@ Click **Merge pull request**, then confirm the merge.
 - After merging, click the option to delete the branch on GitHub.
 - Practice Repeating the Cycle
 - Repeat this cycle for additional branches and PRs to refine your workflow and get comfortable with the process.
+
+You can use shortcut instead of "git add commit push" chain.
+
+```bash
+git acp "Your custom commit message"
+```
